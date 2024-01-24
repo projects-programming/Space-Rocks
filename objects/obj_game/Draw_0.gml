@@ -1,5 +1,3 @@
-/// @description Insert description here
-// You can write your code in this edito
 var game_instructions = @"Score 1000 points to win!
 
 UP: move
