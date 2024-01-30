@@ -9,6 +9,7 @@
     {"id":{"name":"obj_debris","path":"objects/obj_debris/obj_debris.yy",},"order":3,},
     {"id":{"name":"snd_die","path":"sounds/snd_die/snd_die.yy",},"order":1,},
     {"id":{"name":"rm_gameover","path":"rooms/rm_gameover/rm_gameover.yy",},"order":3,},
+    {"id":{"name":"spr_ship_lives","path":"sprites/spr_ship_lives/spr_ship_lives.yy",},"order":6,},
     {"id":{"name":"snd_zap","path":"sounds/snd_zap/snd_zap.yy",},"order":5,},
     {"id":{"name":"spr_asteroid_huge","path":"sprites/spr_asteroid_huge/spr_asteroid_huge.yy",},"order":3,},
     {"id":{"name":"spr_debris","path":"sprites/spr_debris/spr_debris.yy",},"order":5,},
