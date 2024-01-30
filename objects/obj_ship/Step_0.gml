@@ -8,6 +8,7 @@ if(keyboard_check(vk_right)){
 
 if(keyboard_check(vk_up)){
 	motion_add(image_angle, 0.05);
+	effect_create_below(ef_spark, x, y, 0.01, c_aqua);
 }
 
 if(keyboard_check_pressed(vk_space)){
